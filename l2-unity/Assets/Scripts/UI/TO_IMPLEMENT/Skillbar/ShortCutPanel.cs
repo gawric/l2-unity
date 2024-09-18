@@ -24,7 +24,7 @@ public class ShortCutPanel : MonoBehaviour, IShortCutButton
     private ShortCutReplacePanel replacePanel;
     private bool isVertical;
     private ClickSliderShortCutManipulator slider;
-
+	private int test = 0;
 
 
     private string[] arrImgNextButton = new string[6];
